@@ -2,12 +2,12 @@
 
 We have a google play store app dataset that contains information about an app such as its category, rating, number of reviews, size, installs, type, price, content rating, genres and current version as shown in the folowing figure:- 
 
-![App Data](https://github.com/imabhinav-singh/Recommender-Systems/blob/main/AppData%20(1).jpeg) 
+![App Data](https://github.com/diwakarbharti4/Recommender-System/blob/main/Recommender-Systems-main/AppData%20(1).jpeg) 
 
 
 We also have a user review dataset that contains user reviews of an app along with the sentiment polarity and sentiment subjectivity of the review given by the user as shown in the foolowing figure:- 
 
-![User Review Data](https://github.com/imabhinav-singh/Recommender-Systems/blob/main/UserReview%20(1).jpeg) 
+![User Review Data](https://github.com/diwakarbharti4/Recommender-System/blob/main/Recommender-Systems-main/UserReview%20(1).jpeg) 
 
 We define our problem for recommending apps by dividing it into two parts: 
  - First we form clusters of the apps given in the google play store app dataset using appropriate algorithms which are suitable for the given dataset.
